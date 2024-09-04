@@ -1,4 +1,4 @@
-# VisualizeSorting
+# Algo Viewer
 
 ## Tech Stalks
 ### [Deployed link](https://nikkis-visualize-sorting.netlify.app)
