@@ -59,7 +59,7 @@ const start = async () => {
     Timer(startTime);
     if (algo === 1) await algorithm.BubbleSort();
     if (algo === 2) await algorithm.InsertionSort();
-    if (algo === 3) await algorithm.shelleSort();
+    //if (algo === 3) await algorithm.shelleSort();
     if (algo === 4) await algorithm.SelectionSort();
     if (algo === 5) await algorithm.MergeSort();
     if (algo === 6) await algorithm.QuickSort();
